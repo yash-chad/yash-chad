@@ -1,5 +1,5 @@
 <h2> Hi, I'm Yash Chachad! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="https://bit.ly/38byJVB" width="230">
 <p><em>Computer Engineering Student at <a href="http://www.djsce.ac.in/">DJ Sanghvi</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
@@ -9,3 +9,20 @@
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const yash = {
+  code: [Javascript, C++, Python, Java],
+  backend : [Node, Express, Django, REST, SocketIO ],
+  databases : [MongoDb, MySQL, SQLite],
+  frontend : [Node, React, Django],
+  technologies: [ React, Redux, HTML, CSS,Bootstrap, Material-ui ],
+  techCommunities: [ "DJ Unicode","DJ Codestars"],
+  
+  challenge: "I am currently working on my problem solving and algorithmic skills!"
+}
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+---
