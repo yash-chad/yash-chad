@@ -1,7 +1,9 @@
 <h2> Hi, I'm Yash Chachad! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://bit.ly/38byJVB" width="230">
 <p><em>Computer Engineering Student at <a href="http://www.djsce.ac.in/">DJ Sanghvi</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+ <img src="https://bit.ly/2LelGK6" height="30"> : chachadyash786@gmail.com
 </em></p>
+https://1000logos.net/wp-content/uploads/2018/05/Gmail-logo.png
 
 <a href="https://www.codechef.com/users/yashx"><img src="https://bit.ly/38cVzMF" height="30"></a>
 <a href="https://codeforces.com/profile/yash_chad"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Codeforces_logo.svg" height="20"></a>
