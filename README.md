@@ -12,17 +12,16 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const yash = {
+const about_me = {
   code: [Javascript, C++, Python, Java],
   backend : [Node, Express, Django, REST, SocketIO ],
   databases : [MongoDb, MySQL, SQLite],
-  frontend : [Node, React, Django],
   technologies: [ React, Redux, HTML, CSS,Bootstrap, Material-Ui ]
   
   challenge: "I am currently working on my problem solving and algorithmic skills!"
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so feel free to connect and send a Hi!</b> :)</em>
 
 ---
