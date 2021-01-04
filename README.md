@@ -12,7 +12,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const about_me = {
+const yash = {
   code: [Javascript, C++, Python, Java],
   backend : [Node, Express, Django, REST, SocketIO ],
   databases : [MongoDb, MySQL, SQLite],
