@@ -5,8 +5,8 @@
 </em></p>
 
 
-<a href="https://www.codechef.com/users/yashx"><img src="https://bit.ly/38cVzMF" height="30"></a>
-<a href="https://codeforces.com/profile/yash_chad"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Codeforces_logo.svg" height="20"></a>
+<a href="https://www.codechef.com/users/yashx" target="_blank"><img src="https://bit.ly/38cVzMF" height="30"></a>
+<a href="https://codeforces.com/profile/yash_chad" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Codeforces_logo.svg" height="20"></a>
 [![Linkedin: yash-chachad-0299a0198 ](https://img.shields.io/badge/-YashChachad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yash-chachad-0299a0198/)](https://www.linkedin.com/in/yash-chachad-0299a0198//)
 [![GitHub yash-chad](https://img.shields.io/github/followers/yash-chad?label=follow&style=social)](https://github.com/yash-chad)
 
