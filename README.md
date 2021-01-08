@@ -1,5 +1,5 @@
 <h2> Hi, I'm Yash Chachad! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://bit.ly/38byJVB" width="230">
+<img align='right' src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" width="230">
 <p><em>Computer Engineering Student at <a href="http://www.djsce.ac.in/">DJ Sanghvi</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 <br/> <img src="https://bit.ly/2LelGK6" height="30"> : chachadyash786@gmail.com
 </em></p>
