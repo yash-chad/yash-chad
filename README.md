@@ -15,10 +15,10 @@
 
 ```javascript
 const yash = {
-  code: [Javascript, C++, Python, Java],
+  languages: [Javascript, C++, Python, Java],
   backend : [Node, Express, Django, REST, SocketIO ],
   databases : [MongoDb, MySQL, SQLite],
-  technologies: [ React, Redux, HTML, CSS,Bootstrap, Material-Ui ]
+  frontend : [ React, Redux, HTML, CSS,Bootstrap, Material-Ui ]
   
   challenge: "I am currently working on my problem solving and algorithmic skills!"
 }
