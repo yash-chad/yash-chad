@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-chad&label=Profile%20views&color=0e75b6&style=flat" alt="yash-chad" /> </p>
 
-- 💬 Ask me about **Node.js, React.js, MongoDB, Competitive Programming**
+- 💬 Ask me about **Node.js, React.js, Competitive Programming**
 
 - 📫 How to reach me **chachadyash786@gmail.com**
 
