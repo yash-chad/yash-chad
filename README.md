@@ -1,13 +1,16 @@
-<h1 align="center">Hi 👋, I'm Yash Chachad</h1>
-<h3 align="center">A passionate Full Stack Developer from Mumbai, India!</h3>
+<p align="center">
+    <img src="https://raw.githubusercontent.com/yash-chad/yash-chad/main/Resort%20Photo%20Twitter%20Header.png" alt="Logo" height="200">
+</p>
+<!-- <h1 align="center">Hi 👋, I'm Yash Chachad</h1> -->
+<h3 align="center">👋, A passionate Full Stack Developer from Mumbai, India!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-chad&label=Profile%20views&color=0e75b6&style=flat" alt="yash-chad" /> </p>
 
-- 💬 Ask me about **Node.js, React.js, MongoDB**
+- 💬 Ask me about **Node.js, React.js, MongoDB, Competitive Programming**
 
 - 📫 How to reach me **chachadyash786@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/19qZ6zga3ppyqetDa6A8RbRzU31tESZJF/view)
+- 📄 Know about my experiences [Here](https://drive.google.com/file/d/19qZ6zga3ppyqetDa6A8RbRzU31tESZJF/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
