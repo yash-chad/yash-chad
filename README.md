@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Node.js, React.js, Competitive Programming**
 
-- 📫 How to reach me **chachadyash786@gmail.com**
+- 📫 How to reach me **yashchachad8@gmail.com**
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1sD3OaajECF1QhNLVd07r9WWaZc9nQyo1/view?usp=sharing)
 
