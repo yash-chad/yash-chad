@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **chachadyash786@gmail.com**
 
-- 📄 Know about my experiences [Here](https://drive.google.com/file/d/19qZ6zga3ppyqetDa6A8RbRzU31tESZJF/view)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1sD3OaajECF1QhNLVd07r9WWaZc9nQyo1/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
