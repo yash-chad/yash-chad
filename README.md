@@ -17,7 +17,7 @@
 <a href="https://linkedin.com/in/yash-chachad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="yash-chachad" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/yashx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="yashx" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/yash_chad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codeforces.svg" alt="yash_chad" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/yashxx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" alt="yashxx" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/yash_chad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" alt="yashxx" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/yashchachad/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/geeksforgeeks.svg" alt="yashchachad/profile" height="30" width="40" /></a>
 </p>
 
