@@ -1,12 +1,12 @@
-<p align="center">
-    <img src="https://raw.githubusercontent.com/yash-chad/yash-chad/main/Resort%20Photo%20Twitter%20Header.png" alt="Logo" height="200">
-</p>
+<h3 align="center">
+    👋 Hi, I am Yash
+</h3>
 <!-- <h1 align="center">Hi 👋, I'm Yash Chachad</h1> -->
-<h3 align="center">👋, A passionate Full Stack Developer from Mumbai, India!</h3>
+<h4 align="center"> Currently Softare Engineer @Google India</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-chad&label=Profile%20views&color=0e75b6&style=flat" alt="yash-chad" /> </p>
 
-- 💬 Ask me about **Node.js, React.js, Competitive Programming**
+- 💬 Ask me about **Software Engineering, Competitive Programming, Embedded Systems, Full Stack Development!**
 
 - 📫 How to reach me **yashchachad8@gmail.com**
 
